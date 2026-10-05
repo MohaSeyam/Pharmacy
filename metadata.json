@@ -1,0 +1,6 @@
+{
+  "name": "PharmaSys ERP - نظام إدارة الصيدليات",
+  "description": "نظام ERP متكامل واحترافي لإدارة الصيدليات لنظام ويندوز: نقطة البيع POS، المخزون متعدد الوحدات بالدفعات وFEFO، المشتريات، التأمين، المحاسبة التلقائية، ولوحة المطوّر لإدارة التراخيص.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
